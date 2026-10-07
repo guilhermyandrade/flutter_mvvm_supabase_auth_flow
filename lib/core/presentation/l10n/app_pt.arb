@@ -1,0 +1,28 @@
+{
+    "emailFieldTitle": "E-mail",
+    "emailFiendHint": "Seu e-mail aqui",
+
+    "passwordFieldTitle": "Senha",
+    "passwordFieldHint": "Sua senha aqui",
+    "confirmPasswordFieldTitle": "Confirme sua senha",
+
+    "login": "Entrar",
+    "signup": "Cadastre-se",
+    "logOut": "Sair",
+
+    "noAccountYet": "Ainda não tem uma conta?",
+    "alreadyHaveAnAccount": "Já tem uma conta?",
+
+    "invalidEmail": "Por favor, insira um e-mail válido.",
+    "fieldIsMissing": "Este campo está faltando!",
+    "incorrectPassword": "Senha incorreta!",
+    "passwordDoesNotMatch": "As senhas não coincidem!",
+    "passwordTooShort": "Deve conter pelo menos {minLength} caracteres!",
+
+    "onUserCreated": "Conta criada com sucesso! Por favor, faça login para continuar.",
+    "onInvalidEmail": "Este endereço de e-mail não pode ser usado. Por favor, tente outro.",
+    "onEmailNotConfirmed": "Por favor, verifique seu e-mail e confirme sua conta antes de fazer login.",
+    "onInvalidLogInCredentials": "E-mail ou senha incorretos. Por favor, tente novamente.",
+
+    "userLoggedIn": "Você está logado!"
+}

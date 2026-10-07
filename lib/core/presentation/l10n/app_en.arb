@@ -1,0 +1,28 @@
+{
+    "emailFieldTitle": "Email",
+    "emailFiendHint": "Your email here",
+
+    "passwordFieldTitle": "Password",
+    "passwordFieldHint": "Your password here",
+    "confirmPasswordFieldTitle": "Confirm your password",
+
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logOut": "Log Out",
+
+    "noAccountYet": "Don't have an account yet?",
+    "alreadyHaveAnAccount": "Already have an account?",
+
+    "invalidEmail": "Please enter a valid email.",
+    "fieldIsMissing": "This field is missing!",
+    "incorrectPassword": "Password is incorrect!",
+    "passwordDoesNotMatch": "Your passwords are not matching!",
+    "passwordTooShort": "Must contain at least {minLength} characters!",
+
+    "onUserCreated": "Account created successfully! Please log in to continue.",
+    "onInvalidEmail": "This email address can't be used. Please try another one.",
+    "onEmailNotConfirmed": "Please check your email and verify your account before logging in.",
+    "onInvalidLogInCredentials": "Incorrect email or password. Please, try again.",
+
+    "userLoggedIn": "You're logged in!"
+}
